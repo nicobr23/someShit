@@ -1,0 +1,222 @@
+{
+    "200": {
+        "description": "Thunderstorm with light rain",
+        "icon": "/img/svg/wi-day-storm-showers.svg"
+    },
+    "201": {
+        "description": "Thunderstorm with rain",
+        "icon": "/img/svg/wi-day-thunderstorm.svg"
+    },
+    "202": {
+        "description": "Thunderstorm with heavy rain",
+        "icon": "/img/svg/wi-day-thunderstorm.svg"
+    },
+    "210": {
+        "description": "Light thunderstorm",
+        "icon": "/img/svg/wi-day-lightning.svg"
+    },
+    "211": {
+        "description": "Thunderstorm",
+        "icon": "/img/svg/wi-thunderstorm.svg"
+    },
+    "212": {
+        "description": "Heavy thunderstorm",
+        "icon": "/img/svg/wi-thunderstorm.svg"
+    },
+    "221": {
+        "description": "Ragged thunderstorm",
+        "icon": "/img/svg/wi-thunderstorm.svg"
+    },
+    "230": {
+        "description": "Thunderstorm with light drizzle",
+        "icon": "/img/svg/wi-day-storm-showers.svg"
+    },
+    "231": {
+        "description": "Thunderstorm with drizzle",
+        "icon": "/img/svg/wi-day-storm-showers.svg"
+    },
+    "232": {
+        "description": "Thunderstorm with heavy drizzle",
+        "icon": "/img/svg/wi-day-storm-showers.svg"
+    },
+    "300": {
+        "description": "Light intensity drizzle",
+        "icon": "/img/svg/wi-rain-mix.svg"
+    },
+    "301": {
+        "description": "Drizzle",
+        "icon": "/img/svg/wi-rain-mix.svg"
+    },
+    "302": {
+        "description": "Heavy intensity drizzle",
+        "icon": "/img/svg/wi-rain-mix.svg"
+    },
+    "310": {
+        "description": "Light intensity drizzle rain",
+        "icon": "/img/svg/wi-rain-mix.svg"
+    },
+    "311": {
+        "description": "Drizzle rain",
+        "icon": "/img/svg/wi-rain-mix.svg"
+    },
+    "312": {
+        "description": "Heavy intensity drizzle rain",
+        "icon": "/img/svg/wi-rain-mix.svg"
+    },
+    "313": {
+        "description": "Shower rain and drizzle",
+        "icon": "/img/svg/wi-rain-mix.svg"
+    },
+    "314": {
+        "description": "Heavy shower rain and drizzle",
+        "icon": "/img/svg/wi-rain-mix.svg"
+    },
+    "321": {
+        "description": "Shower drizzle",
+        "icon": "/img/svg/wi-rain-mix.svg"
+    },
+    "500": {
+        "description": "Light rain",
+        "icon": "/img/svg/wi-rain.svg"
+    },
+    "501": {
+        "description": "Moderate rain",
+        "icon": "/img/svg/wi-rain.svg"
+    },
+    "502": {
+        "description": "Heavy intensity rain",
+        "icon": "/img/svg/wi-rain.svg"
+    },
+    "503": {
+        "description": "Very heavy rain",
+        "icon": "/img/svg/wi-rain.svg"
+    },
+    "504": {
+        "description": "Extreme rain",
+        "icon": "/img/svg/wi-rain.svg"
+    },
+    "511": {
+        "description": "Freezing rain",
+        "icon": "/img/svg/wi-sleet.svg"
+    },
+    "520": {
+        "description": "Light intensity shower rain",
+        "icon": "/img/svg/wi-showers.svg"
+    },
+    "521": {
+        "description": "Shower rain",
+        "icon": "/img/svg/wi-showers.svg"
+    },
+    "522": {
+        "description": "Heavy intensity shower rain",
+        "icon": "/img/svg/wi-showers.svg"
+    },
+    "531": {
+        "description": "Ragged shower rain",
+        "icon": "/img/svg/wi-showers.svg"
+    },
+    "600": {
+        "description": "Light snow",
+        "icon": "/img/svg/wi-snow.svg"
+    },
+    "601": {
+        "description": "Snow",
+        "icon": "/img/svg/wi-snow.svg"
+    },
+    "602": {
+        "description": "Heavy snow",
+        "icon": "/img/svg/wi-snow.svg"
+    },
+    "611": {
+        "description": "Sleet",
+        "icon": "/img/svg/wi-sleet.svg"
+    },
+    "612": {
+        "description": "Light shower sleet",
+        "icon": "/img/svg/wi-sleet.svg"
+    },
+    "613": {
+        "description": "Shower sleet",
+        "icon": "/img/svg/wi-sleet.svg"
+    },
+    "615": {
+        "description": "Light rain and snow",
+        "icon": "/img/svg/wi-rain-mix.svg"
+    },
+    "616": {
+        "description": "Rain and snow",
+        "icon": "/img/svg/wi-rain-mix.svg"
+    },
+    "620": {
+        "description": "Light shower snow",
+        "icon": "/img/svg/wi-rain-mix.svg"
+    },
+    "621": {
+        "description": "Shower snow",
+        "icon": "/img/svg/wi-snow.svg"
+    },
+    "622": {
+        "description": "Heavy shower snow",
+        "icon": "/img/svg/wi-snow.svg"
+    },
+    "701": {
+        "description": "Mist",
+        "icon": "/img/svg/wi-fog.svg"
+    },
+    "711": {
+        "description": "Smoke",
+        "icon": "/img/svg/wi-smoke.svg"
+    },
+    "721": {
+        "description": "Haze",
+        "icon": "/img/svg/wi-day-haze.svg"
+    },
+    "731": {
+        "description": "Sand/dust whirls",
+        "icon": "/img/svg/wi-sandstorm.svg"
+    },
+    "741": {
+        "description": "Fog",
+        "icon": "/img/svg/wi-fog.svg"
+    },
+    "751": {
+        "description": "Sand",
+        "icon": "/img/svg/wi-sandstorm.svg"
+    },
+    "761": {
+        "description": "Dust",
+        "icon": "/img/svg/wi-dust.svg"
+    },
+    "762": {
+        "description": "Volcanic ash",
+        "icon": "/img/svg/wi-volcano.svg"
+    },
+    "771": {
+        "description": "Squalls",
+        "icon": "/img/svg/wi-strong-wind.svg"
+    },
+    "781": {
+        "description": "Tornado",
+        "icon": "/img/svg/wi-tornado.svg"
+    },
+    "800": {
+        "description": "Clear sky",
+        "icon": "/img/svg/wi-day-sunny.svg"
+    },
+    "801": {
+        "description": "Few clouds: 11-25%",
+        "icon": "/img/svg/wi-day-sunny-overcast.svg"
+    },
+    "802": {
+        "description": "Scattered clouds: 25-50%",
+        "icon": "/img/svg/wi-cloud.svg"
+    },
+    "803": {
+        "description": "Broken clouds: 51-84%",
+        "icon": "/img/svg/wi-cloudy.svg"
+    },
+    "804": {
+        "description": "Overcast clouds: 85-100%",
+        "icon": "/img/svg/wi-cloudy.svg"
+    }
+}

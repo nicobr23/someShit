@@ -1,0 +1,51 @@
+extends layout.pug
+
+block content
+  .dashboard_container 
+    h2 Dashboard  
+    each station, index in stations
+      .weather_station 
+        .weather_station_header
+          //-img(src=weatherCodes[station.weather].icon, alt=weatherCodes[station.weather].description)
+          .weather_station_header_title
+            h2 #{station.name}
+            a(href='delete' + station.name)
+              img(src='/img/bin.svg', alt='trashcan')
+            a(href='' + station.name)
+              img(src='/img/right-arrow.png', alt='arrow_nav')
+          .coordinates
+              p Lat: 123
+              p Lon: 123
+        .weather_station_body
+          
+          
+          
+
+          .weather_station_widget_info
+            //- p= weatherCodes[station.newestReading.weather].description
+            
+            .weather_station_info_item
+              .info_title
+                img(src='/img/thermometer.png', alt='Temperature')
+                .label Temperature
+              .value= station.temperature + '°C'
+              
+            .weather_station_info_item
+              .info_title
+                img(src='/img/humidity.png', alt='Humidity')
+                .label Humidity
+              .value= station.humidity + '%'
+              
+            .weather_station_info_item
+              .info_title
+                img(src='/img/wind.png', alt='Wind')
+                .label Wind
+              .value= station.windSpeed + ' km/h'
+              
+            .weather_station_info_item
+              .info_title
+                img(src='/img/barometer.png', alt='Air pressure')
+                .label Air pressure
+              .value= station.pressure + ' hPa'
+
+            
